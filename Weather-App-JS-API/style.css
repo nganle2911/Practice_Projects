@@ -52,16 +52,16 @@ body {
     justify-content: center;
     align-items: center;
     height: 30vh;
-    padding: 80px 50px;
+    padding: 70px 50px;
 }
 
 .city-name {
-    font-size: 25px;
+    font-size: 28px;
     margin-bottom: 3px;
 }
 
 .weather-state {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .weather-icon {
@@ -70,7 +70,7 @@ body {
 }
 
 .temperature {
-    font-size: 80px;
+    font-size: 75px;
     font-weight: 300;
     line-height: 1;
     position: relative;
@@ -88,6 +88,7 @@ body {
     flex-direction: column;
     padding: 10px 20px;
     font-size: 13px;
+    
 }
 
 .additional-section .row {
